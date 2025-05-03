@@ -9,7 +9,7 @@ import adminRouter from "./routes/adminRoute.js"
 
 // app config
 const app = express()
-const port = process.env.PORT || 4000 || "https://doctor-booking-system-e3wv.onrender.com"
+const port = process.env.PORT || 4000 || 'https://doctor-booking-system-1-5gb4.onrender.com'
 connectDB()
 connectCloudinary()
 
