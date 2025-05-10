@@ -115,6 +115,7 @@ const AddDoctor = () => {
                                 <option value="4 Year">4 Years</option>
                                 <option value="5 Year">5 Years</option>
                                 <option value="6 Year">6 Years</option>
+                                <option value="6 Year">7 Years</option>
                                 <option value="8 Year">8 Years</option>
                                 <option value="9 Year">9 Years</option>
                                 <option value="10 Year">10 Years</option>
@@ -138,7 +139,7 @@ const AddDoctor = () => {
                                 <option value="Dermatologist">Dermatologist</option>
                                 <option value="Pediatricians">Pediatricians</option>
                                 <option value="Neurologist">Neurologist</option>
-                                <option value="Gastroenterologist">Gastroenterologist</option>
+                                <option value="Gastroenterologist">Emergency</option>
                             </select>
                         </div>
 
