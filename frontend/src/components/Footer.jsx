@@ -8,7 +8,7 @@ const Footer = () => {
       <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10  mt-40 text-sm'>
 
         <div>
-          <img className='mb-5 w-40' src={assets.logo} alt="" />
+          <img className='mb-5 w-40' src={assets.Logo} alt="" />
           <p className='w-full md:w-2/3 text-gray-600 leading-6'>MedixMeet is your trusted platform for booking doctor appointments—anytime, anywhere. Whether it’s an emergency, a routine check-up, or a specialized consultation, MedixMeet connects you with qualified doctors across multiple specialties. Experience instant bookings, online consultations, and seamless healthcare—all in one place.</p>
         </div>
 
